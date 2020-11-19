@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#39796b</color>
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#A9d440</color>
+
+    <color name="overlayBackground">#ffffff</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="colorPrimaryText">#050505</color>
+
+    <color name="successGreen">#11a10c</color>
+    <color name="successFail">#e60800</color>
+    <color name="downBackground">#A8FF5722</color>
+
+    <color name="screen1">#ff8a65</color>
+    <color name="screen2">#75a478</color>
+    <color name="screen3">#DAA91B</color>
+    <color name="screen4">#009688</color>
+    <color name="screen5">#455a64</color>
+    <color name="screen6">#F5FF9800</color>
+
+    <color name="dot_dark_screen1">#C2185B</color>
+    <color name="dot_dark_screen2">#6A1B9A</color>
+    <color name="dot_dark_screen3">#00695C</color>
+    <color name="dot_dark_screen4">#EF6C00</color>
+    <color name="dot_dark_screen5">#3E2723</color>
+    <color name="dot_dark_screen">#3E2723</color>
+
+    <color name="dot_light_screen1">#F888D0</color>
+    <color name="dot_light_screen2">#E1BEE7</color>
+    <color name="dot_light_screen3">#80CBC4</color>
+    <color name="dot_light_screen4">#FFE0B2</color>
+    <color name="dot_light_screen5">#A1887B</color>
+
+    <array name="dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+</resources>
